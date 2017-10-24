@@ -1,7 +1,7 @@
 <?php
 /*
-copyright @ medantechno.com
-Modified by Ilyasa
+copyright @ bncautowork.com
+Modified by BillieDhikaS
 2017
 */
 require_once('./line_class.php');
@@ -49,7 +49,7 @@ if($url['result'] == 404)
 							'messages' => array(
 								array(
 										'type' => 'text',					
-										'text' => 'bahasa paan tuh.'
+										'text' => 'bahasa mana tuh.'
 									)
 							)
 						);
